@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyQt6App",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MyQt6App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyQt6App-Debug-1dd0913f6f551b2baee1.json",
+					"name" : "MyQt6App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyQt6App_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyQt6App_autogen-Debug-8c59e260a2804ea6b75d.json",
+					"name" : "MyQt6App_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyQt6App_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyQt6App_autogen_timestamp_deps-Debug-3e4c01957da54859253c.json",
+					"name" : "MyQt6App_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/elanda/Coding/CPP/TestQtApp/build",
+		"source" : "/home/elanda/Coding/CPP/TestQtApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

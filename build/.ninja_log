@@ -1,0 +1,17 @@
+# ninja log v5
+1	43	0	/home/elanda/Coding/CPP/TestQtApp/build/CMakeFiles/cmake.verify_globs	47e923a9e36febcf
+44	1016	1747661401642207866	MyQt6App_autogen/timestamp	42c9952aa22c84c0
+44	1016	1747661401642207866	MyQt6App_autogen/mocs_compilation.cpp	42c9952aa22c84c0
+44	1016	1747661401642207866	/home/elanda/Coding/CPP/TestQtApp/build/MyQt6App_autogen/timestamp	42c9952aa22c84c0
+44	1016	1747661401642207866	/home/elanda/Coding/CPP/TestQtApp/build/MyQt6App_autogen/mocs_compilation.cpp	42c9952aa22c84c0
+1016	11929	1747661412560966126	CMakeFiles/MyQt6App.dir/MyQt6App_autogen/mocs_compilation.cpp.o	997e39f96b353c36
+1020	11989	1747661412643009345	CMakeFiles/MyQt6App.dir/src/Main.cpp.o	a6abba40ea1d8a10
+19	552	0	/home/elanda/Coding/CPP/TestQtApp/build/CMakeFiles/cmake.verify_globs	47e923a9e36febcf
+601	1928	1747661729466241642	MyQt6App_autogen/timestamp	42c9952aa22c84c0
+601	1928	1747661729466241642	MyQt6App_autogen/mocs_compilation.cpp	42c9952aa22c84c0
+601	1928	1747661729466241642	/home/elanda/Coding/CPP/TestQtApp/build/MyQt6App_autogen/timestamp	42c9952aa22c84c0
+601	1928	1747661729466241642	/home/elanda/Coding/CPP/TestQtApp/build/MyQt6App_autogen/mocs_compilation.cpp	42c9952aa22c84c0
+1929	11565	1747661739124141934	CMakeFiles/MyQt6App.dir/MyQt6App_autogen/mocs_compilation.cpp.o	997e39f96b353c36
+1932	11839	1747661739402283016	CMakeFiles/MyQt6App.dir/src/Main.cpp.o	a6abba40ea1d8a10
+1935	12551	1747661740113643836	CMakeFiles/MyQt6App.dir/src/windows/MainWindow.cpp.o	a6ab734e2db58201
+12551	13517	1747661741074130995	/home/elanda/Coding/CPP/TestQtApp/bin/MyQt6App	a2c58152886c55a3

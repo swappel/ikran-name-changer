@@ -1,0 +1,5 @@
+/home/elanda/Coding/CPP/TestQtApp/build/CMakeFiles/MyQt6App.dir
+/home/elanda/Coding/CPP/TestQtApp/build/CMakeFiles/edit_cache.dir
+/home/elanda/Coding/CPP/TestQtApp/build/CMakeFiles/rebuild_cache.dir
+/home/elanda/Coding/CPP/TestQtApp/build/CMakeFiles/MyQt6App_autogen_timestamp_deps.dir
+/home/elanda/Coding/CPP/TestQtApp/build/CMakeFiles/MyQt6App_autogen.dir
